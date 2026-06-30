@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 PERGUNTAS = [
     {
-        "pergunta": "Qual dia do mês de junho é comemorado o Dia de São João?",
+        "pergunta": "Qual dia do mês de junho é comemorado São João?",
         "alternativas": [
             "12 de junho",
             "20 de junho",
